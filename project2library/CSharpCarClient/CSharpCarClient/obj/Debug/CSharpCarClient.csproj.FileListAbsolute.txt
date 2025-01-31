@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\CSharpCarClient\CSharpCarClient\bin\Debug\CSharpCarClient.exe.config
+C:\Users\user\source\repos\CSharpCarClient\CSharpCarClient\bin\Debug\CSharpCarClient.exe
+C:\Users\user\source\repos\CSharpCarClient\CSharpCarClient\bin\Debug\CSharpCarClient.pdb
+C:\Users\user\source\repos\CSharpCarClient\CSharpCarClient\bin\Debug\Carlibrary.dll
+C:\Users\user\source\repos\CSharpCarClient\CSharpCarClient\obj\Debug\CSharpCarClient.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CSharpCarClient\CSharpCarClient\obj\Debug\CSharpCarClient.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CSharpCarClient\CSharpCarClient\obj\Debug\CSharpCa.AD425495.Up2Date
+C:\Users\user\source\repos\CSharpCarClient\CSharpCarClient\obj\Debug\CSharpCarClient.exe
+C:\Users\user\source\repos\CSharpCarClient\CSharpCarClient\obj\Debug\CSharpCarClient.pdb

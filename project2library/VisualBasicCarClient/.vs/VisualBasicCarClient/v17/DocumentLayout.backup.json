@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\VisualBasicCarClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66E24764-E940-47C9-A5B3-6D2333D7B940}|VisualBasicCarClient\\VisualBasicCarClient.vbproj|c:\\users\\user\\source\\repos\\visualbasiccarclient\\visualbasiccarclient\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{66E24764-E940-47C9-A5B3-6D2333D7B940}|VisualBasicCarClient\\VisualBasicCarClient.vbproj|solutionrelative:visualbasiccarclient\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E24764-E940-47C9-A5B3-6D2333D7B940}|VisualBasicCarClient\\VisualBasicCarClient.vbproj|c:\\users\\user\\source\\repos\\visualbasiccarclient\\visualbasiccarclient\\performancecar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{66E24764-E940-47C9-A5B3-6D2333D7B940}|VisualBasicCarClient\\VisualBasicCarClient.vbproj|solutionrelative:visualbasiccarclient\\performancecar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PerformanceCar.vb",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\VisualBasicCarClient\\VisualBasicCarClient\\PerformanceCar.vb",
+              "RelativeDocumentMoniker": "VisualBasicCarClient\\PerformanceCar.vb",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\VisualBasicCarClient\\VisualBasicCarClient\\PerformanceCar.vb",
+              "RelativeToolTip": "VisualBasicCarClient\\PerformanceCar.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-28T06:51:33.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\VisualBasicCarClient\\VisualBasicCarClient\\Module1.vb",
+              "RelativeDocumentMoniker": "VisualBasicCarClient\\Module1.vb",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\VisualBasicCarClient\\VisualBasicCarClient\\Module1.vb",
+              "RelativeToolTip": "VisualBasicCarClient\\Module1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-28T06:46:01.024Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

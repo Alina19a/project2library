@@ -1,0 +1,4 @@
+C:\Users\user\source\repos\Carlibrary\Carlibrary\bin\Debug\Carlibrary.dll
+C:\Users\user\source\repos\Carlibrary\Carlibrary\obj\Debug\Carlibrary.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Carlibrary\Carlibrary\obj\Debug\Carlibrary.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Carlibrary\Carlibrary\obj\Debug\Carlibrary.dll
