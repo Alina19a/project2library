@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\LateBindingApp\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\project2library\\LateBindingApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{09FA9C5B-6654-4D7A-B239-40D2BF1461FC}|LateBindingApp\\LateBindingApp.csproj|c:\\users\\user\\source\\repos\\latebindingapp\\latebindingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{09FA9C5B-6654-4D7A-B239-40D2BF1461FC}|LateBindingApp\\LateBindingApp.csproj|c:\\users\\user\\source\\repos\\project2library\\latebindingapp\\latebindingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09FA9C5B-6654-4D7A-B239-40D2BF1461FC}|LateBindingApp\\LateBindingApp.csproj|solutionrelative:latebindingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LateBindingApp\\LateBindingApp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\project2library\\LateBindingApp\\LateBindingApp\\Program.cs",
               "RelativeDocumentMoniker": "LateBindingApp\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\LateBindingApp\\LateBindingApp\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\project2library\\LateBindingApp\\LateBindingApp\\Program.cs",
               "RelativeToolTip": "LateBindingApp\\Program.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwDQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-30T05:36:45.255Z",
               "EditorCaption": ""

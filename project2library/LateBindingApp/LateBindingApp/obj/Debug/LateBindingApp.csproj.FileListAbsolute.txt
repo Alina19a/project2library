@@ -1,7 +1,7 @@
-C:\Users\user\source\repos\LateBindingApp\LateBindingApp\bin\Debug\LateBindingApp.exe.config
-C:\Users\user\source\repos\LateBindingApp\LateBindingApp\bin\Debug\LateBindingApp.exe
-C:\Users\user\source\repos\LateBindingApp\LateBindingApp\bin\Debug\LateBindingApp.pdb
-C:\Users\user\source\repos\LateBindingApp\LateBindingApp\obj\Debug\LateBindingApp.csproj.AssemblyReference.cache
-C:\Users\user\source\repos\LateBindingApp\LateBindingApp\obj\Debug\LateBindingApp.csproj.CoreCompileInputs.cache
-C:\Users\user\source\repos\LateBindingApp\LateBindingApp\obj\Debug\LateBindingApp.exe
-C:\Users\user\source\repos\LateBindingApp\LateBindingApp\obj\Debug\LateBindingApp.pdb
+C:\Users\user\source\repos\project2library\LateBindingApp\LateBindingApp\bin\Debug\LateBindingApp.exe.config
+C:\Users\user\source\repos\project2library\LateBindingApp\LateBindingApp\bin\Debug\LateBindingApp.exe
+C:\Users\user\source\repos\project2library\LateBindingApp\LateBindingApp\bin\Debug\LateBindingApp.pdb
+C:\Users\user\source\repos\project2library\LateBindingApp\LateBindingApp\obj\Debug\LateBindingApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\project2library\LateBindingApp\LateBindingApp\obj\Debug\LateBindingApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\project2library\LateBindingApp\LateBindingApp\obj\Debug\LateBindingApp.exe
+C:\Users\user\source\repos\project2library\LateBindingApp\LateBindingApp\obj\Debug\LateBindingApp.pdb
