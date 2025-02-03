@@ -1,16 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
-using System.Windows.Forms;
-using static Carlibrary.Class1;
-
-namespace Carlibrary
+using System.Windows.Forms;  //нужно обязательно подключить!
+namespace CarLibrary
 {
-    internal class DerivedCars
-    {
-    }
     public class SportsCar : Car
     {
         public SportsCar() { }  // конструктор по умолчанию
@@ -32,6 +28,41 @@ namespace Carlibrary
             egnState = EngineState.engineDead;
             MessageBox.Show("Упс!", " Ваш блок двигателя взорвался!");
         }
+        public void TurnOnRadio(bool musicOn, MusicMedia mm)
+        {
+            if (musicOn)
+                MessageBox.Show(string.Format("Jamming {0}", mm));
+            else
+                MessageBox.Show("Quiet time...");
+        }
+        public enum MusicMedia
+        {
+            musicCd, // 0
+            musicTape, // 1
+            musicRadio, // 2
+            musicMp3 // 3
+        }
+        static void InvokeMethodWithArgsUsingLateBinding(Assembly asm)
+        {
+            
+                try
+                {
+                    // Сначала получим метаданные для типа SportsCar.
+                    Type sport = asm.GetType("CarLibrary.SportsCar");
 
+                    // Затем создадим экземпляр типа SportsCar динамически.
+                    object obj = Activator.CreateInstance(sport);
+                    // Вызов метода TurnOnRadio() с аргументами.
+                    MethodInfo mi = sport.GetMethod("TurnOnRadio");
+                    mi.Invoke(obj, new object[] { true, 2 });
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine(ex.Message);
+                }
+            }
+        }
     }
-    }
+
+
+    
