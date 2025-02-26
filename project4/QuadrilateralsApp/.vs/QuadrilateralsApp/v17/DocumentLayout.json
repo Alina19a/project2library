@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\QuadrilateralsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD41B3A0-3CC6-4B6A-BB74-CA7C0B1F045D}|QuadrilateralsApp\\QuadrilateralsApp.csproj|c:\\users\\user\\source\\repos\\quadrilateralsapp\\quadrilateralsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD41B3A0-3CC6-4B6A-BB74-CA7C0B1F045D}|QuadrilateralsApp\\QuadrilateralsApp.csproj|solutionrelative:quadrilateralsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\QuadrilateralsApp\\QuadrilateralsApp\\Program.cs",
+              "RelativeDocumentMoniker": "QuadrilateralsApp\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\QuadrilateralsApp\\QuadrilateralsApp\\Program.cs",
+              "RelativeToolTip": "QuadrilateralsApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T15:01:43.346Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

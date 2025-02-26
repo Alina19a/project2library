@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\QuadrilateralsLibrary\QuadrilateralsLibrary\bin\Debug\QuadrilateralsLibrary.dll
+C:\Users\user\source\repos\QuadrilateralsLibrary\QuadrilateralsLibrary\bin\Debug\QuadrilateralsLibrary.pdb
+C:\Users\user\source\repos\QuadrilateralsLibrary\QuadrilateralsLibrary\obj\Debug\QuadrilateralsLibrary.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\QuadrilateralsLibrary\QuadrilateralsLibrary\obj\Debug\QuadrilateralsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\QuadrilateralsLibrary\QuadrilateralsLibrary\obj\Debug\QuadrilateralsLibrary.dll
+C:\Users\user\source\repos\QuadrilateralsLibrary\QuadrilateralsLibrary\obj\Debug\QuadrilateralsLibrary.pdb

@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\QuadrilateralsApp\QuadrilateralsApp\bin\Debug\QuadrilateralsApp.exe.config
+C:\Users\user\source\repos\QuadrilateralsApp\QuadrilateralsApp\bin\Debug\QuadrilateralsApp.exe
+C:\Users\user\source\repos\QuadrilateralsApp\QuadrilateralsApp\bin\Debug\QuadrilateralsApp.pdb
+C:\Users\user\source\repos\QuadrilateralsApp\QuadrilateralsApp\bin\Debug\QuadrilateralsLibrary.dll
+C:\Users\user\source\repos\QuadrilateralsApp\QuadrilateralsApp\bin\Debug\QuadrilateralsLibrary.pdb
+C:\Users\user\source\repos\QuadrilateralsApp\QuadrilateralsApp\obj\Debug\QuadrilateralsApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\QuadrilateralsApp\QuadrilateralsApp\obj\Debug\QuadrilateralsApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\QuadrilateralsApp\QuadrilateralsApp\obj\Debug\Quadrila.221DA199.Up2Date
+C:\Users\user\source\repos\QuadrilateralsApp\QuadrilateralsApp\obj\Debug\QuadrilateralsApp.exe
+C:\Users\user\source\repos\QuadrilateralsApp\QuadrilateralsApp\obj\Debug\QuadrilateralsApp.pdb
